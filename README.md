@@ -14,6 +14,9 @@ This project applies **Dynamic Prime-Based Clustering** to detect fraudulent tra
 ---
 
 ## 📌 Dataset 📂
+- Kaggle Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+- The model uses a **CSV file** containing **credit card transactions**.
+- The file should have a column named **"Amount"**, which contains transaction amounts.
 - The model uses a **CSV file** containing **credit card transactions**.
 - The file should have a column named **"Amount"**, which contains transaction amounts.
 
@@ -98,5 +101,6 @@ This project is licensed under the **MIT License**.
 
 ## 📌 Author ✍️
 **[Manish](https://github.com/0906manish)**  
+📧 manishaamt0906@gmail.com  
 
 
